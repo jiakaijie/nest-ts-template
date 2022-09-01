@@ -1,0 +1,19 @@
+env: "development"
+
+redis:
+  # host: "xxx.db"
+  host: "8.131.68.38"
+  # port: 6379
+  # db: 10
+  # password: xx
+
+mongodb: 
+  host: '127.0.0.1:27017'
+  port: 27017
+  db1: 'platform'
+
+talOss: 
+  staticHost: 'https://static0-test.xesimg.com'
+  bucket: '101-static-test'
+  accessKeyId: 'xxx'
+  accessKeySecret: 'xxx'

@@ -1,0 +1,18 @@
+env: "production"
+
+redis:
+  host: "xxx.db"
+  # port: 6379
+  # db: 10
+  # password: xx
+
+mongodb: 
+  host: 'root:用户名@密码.域名:端口/admin?replicaSet=mgset-50213605'
+  port: 27017
+  db1: 'platform'
+
+talOss: 
+  staticHost: 'https://static0-test.xesimg.com'
+  bucket: '101-static-test'
+  accessKeyId: 'xxx'
+  accessKeySecret: 'xxx'
